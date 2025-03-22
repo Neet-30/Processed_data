@@ -1,1 +1,1 @@
-Cleaning and merging data from csv files to train a model.
+Cleaning and merging data from multiple csv files to train a model.
